@@ -2,14 +2,19 @@ body {
   overflow-x: hidden;
   position: relative;
   padding-bottom: 40px;
-  color: #555555; /*#777777; /*#5a5a5a;*/
+  color: #555555;
   background-color: #ffffcc;
-  font-family: Lobster, Monospace;
+  font-family: Caveat Brush, Monospace;
 }
 
-p {
-  margin-left: 10px;
+h2 {
+    border-style: solid;
+    border-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-color: #555555;
 }
+
 
 #About {
    margin-top: 10px;
