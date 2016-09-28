@@ -2,9 +2,9 @@ body {
   overflow-x: hidden;
   position: relative;
   padding-bottom: 40px;
-  color: #555555; /*#777777; /*#5a5a5a;*/
+  color: #555555; 
   background-color: #ffffcc;
-  font-family: Lobster, Monospace;
+  font-family: Caveat Brush, Monospace;
 }
 
 p {
